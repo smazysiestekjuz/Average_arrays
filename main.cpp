@@ -13,7 +13,8 @@ int main()
        suma += oceny[i];
    }
 
-    cout<<endl<<"suma = "<<suma;
+    srednia = suma / 5;
+    cout<<endl<<"srednia = "<<srednia;
 
     return 0;
 }
