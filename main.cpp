@@ -10,7 +10,7 @@ int main()
    {
        cout<<endl<<"Podaj "<<i+1<<" ocene: ";
        cin>>oceny[i];
-       suma += oceny[1];
+       suma += oceny[i];
    }
 
     cout<<endl<<"suma = "<<suma;
