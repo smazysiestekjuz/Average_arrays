@@ -1,0 +1,1 @@
+Program for calculating the average of 5 people
